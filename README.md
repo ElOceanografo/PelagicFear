@@ -1,5 +1,7 @@
 # Analysis code for "Fear structures the ocean's pelagic zone"
 
+[![DOI](https://zenodo.org/badge/397781245.svg)](https://zenodo.org/badge/latestdoi/397781245)
+
 This directory contains the code necessary to reproduce the figures and analysis in Urmy, S.S. and K.J. Benoit-Bird (2021), "Fear structures the ocean's pelagic zone." Current Biology X(X), doi:XXXXXXXX
 
 ## Data
