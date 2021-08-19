@@ -5,7 +5,7 @@
 This directory contains the code necessary to reproduce the figures and analysis in Urmy, S.S. and K.J. Benoit-Bird (2021), "Fear structures the ocean's pelagic zone." Current Biology X(X), doi:XXXXXXXX
 
 ## Data
-The data required for these analyses are archived at Dryad.  They may be downloaded from: xxxxxxxxxxx
+The data required for these analyses are archived at Dryad: https://doi.org/10.5061/dryad.44j0zpcf1.  They will need to be downloaded before the code can be run.
 
 ## Required software
 
